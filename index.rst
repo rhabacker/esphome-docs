@@ -493,6 +493,7 @@ Environmental
     MS8607, components/sensor/ms8607, ms8607.jpg, Temperature & Humidity & Pressure
     NPI-19, components/sensor/npi19, npi19.jpg, Pressure
     NTC Thermistor, components/sensor/ntc, ntc.jpg, Temperature
+    NTC Thermistor simulation, components/sensor/ntcsim, ntc.jpg, Resistane
     PMWCS3, components/sensor/pmwcs3, pmwcs3.jpg, Soil moisture & Temperature
     QMP6988, components/sensor/qmp6988, qmp6988_env3.png, Temperature & Pressure
     RadonEye BLE, components/sensor/radon_eye_ble, radon_eye_logo.png, Radon
